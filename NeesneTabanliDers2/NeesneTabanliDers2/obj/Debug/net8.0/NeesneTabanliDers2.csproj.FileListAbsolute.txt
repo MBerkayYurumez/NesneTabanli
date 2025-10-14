@@ -1,0 +1,14 @@
+C:\Users\mehme\source\repos\NeesneTabanliDers2\NeesneTabanliDers2\bin\Debug\net8.0\NeesneTabanliDers2.exe
+C:\Users\mehme\source\repos\NeesneTabanliDers2\NeesneTabanliDers2\bin\Debug\net8.0\NeesneTabanliDers2.deps.json
+C:\Users\mehme\source\repos\NeesneTabanliDers2\NeesneTabanliDers2\bin\Debug\net8.0\NeesneTabanliDers2.runtimeconfig.json
+C:\Users\mehme\source\repos\NeesneTabanliDers2\NeesneTabanliDers2\bin\Debug\net8.0\NeesneTabanliDers2.dll
+C:\Users\mehme\source\repos\NeesneTabanliDers2\NeesneTabanliDers2\bin\Debug\net8.0\NeesneTabanliDers2.pdb
+C:\Users\mehme\source\repos\NeesneTabanliDers2\NeesneTabanliDers2\obj\Debug\net8.0\NeesneTabanliDers2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\NeesneTabanliDers2\NeesneTabanliDers2\obj\Debug\net8.0\NeesneTabanliDers2.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\NeesneTabanliDers2\NeesneTabanliDers2\obj\Debug\net8.0\NeesneTabanliDers2.AssemblyInfo.cs
+C:\Users\mehme\source\repos\NeesneTabanliDers2\NeesneTabanliDers2\obj\Debug\net8.0\NeesneTabanliDers2.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\NeesneTabanliDers2\NeesneTabanliDers2\obj\Debug\net8.0\NeesneTabanliDers2.dll
+C:\Users\mehme\source\repos\NeesneTabanliDers2\NeesneTabanliDers2\obj\Debug\net8.0\refint\NeesneTabanliDers2.dll
+C:\Users\mehme\source\repos\NeesneTabanliDers2\NeesneTabanliDers2\obj\Debug\net8.0\NeesneTabanliDers2.pdb
+C:\Users\mehme\source\repos\NeesneTabanliDers2\NeesneTabanliDers2\obj\Debug\net8.0\NeesneTabanliDers2.genruntimeconfig.cache
+C:\Users\mehme\source\repos\NeesneTabanliDers2\NeesneTabanliDers2\obj\Debug\net8.0\ref\NeesneTabanliDers2.dll
