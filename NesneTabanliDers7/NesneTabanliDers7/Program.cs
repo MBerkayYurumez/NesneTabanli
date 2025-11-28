@@ -39,6 +39,7 @@ namespace NesneTabanliDers7
         {
             x = 20;
             Console.WriteLine("metod içinde  sayı: {0}",x);
+            
         }
         static void Degerilegecir(Ogrenci Ogr)
         {
@@ -208,3 +209,4 @@ namespace NesneTabanliDers7
         }
     }
 }
+
